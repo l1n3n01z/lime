@@ -16,6 +16,7 @@
 [submodule "3rdparty/libs/gopy"]
 	path = 3rdparty/libs/gopy
 	url = git://github.com/l1n3n01z/gopy.git
+	branch = windows_fix
 [submodule "3rdparty/libs/rubex"]
 	path = 3rdparty/libs/rubex
 	url = git://github.com/quarnster/rubex.git
